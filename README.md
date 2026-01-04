@@ -1,2 +1,23 @@
-# registro-de-aprendizaje-python
-Registro de aprendizaje de Python básico con pequeños ejercicios prácticos. (Study log for Python basics with small practice codes.)
+# 파이썬 학습 기록 (Python Learning Log)
+
+## 목적
+파이썬 강의를 학습하며, **개념을 이해하고 문제에 적용해가는 과정**을 기록하기 위한 학습 로그이다.
+학습한 개념을 문제에 적용하고, 오류 발생 시 이를 해결해가는 과정을 남기는데에 그 목적이 있다.
+
+## 목표
+노베이스 비전공자로서 파이썬을 처음 학습하려 한다. 
+어떤 문제에 대해 논리적으로 생각하고 그 규칙을 코드로 표현하는 연습을 통해, **삶의 질을 향상시킬 수 있는 프로그램**을 만들어보고 싶다.
+
+## 학습 방식
+- 파이썬 강의 수강
+- 배운 개념을 글로 정리
+- 간단한 예제 코드를 직접 작성
+- 헷갈린 점과 개선 방향을 기록
+
+## 현재 수준
+- 파이썬 입문자
+
+## 1주차 목표
+- 생활코딩의 '파이썬 입문 강의' 수강
+- if / else 조건문 개념 이해
+- 간단한 조건 기반 코드 작성
